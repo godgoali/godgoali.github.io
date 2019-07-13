@@ -8,7 +8,7 @@ $(document).ready(function() {
 		},
 		github: {
 			org: 'godgoali',
-			repo: 'godgoali/godgoali.github.io'
+			repo: 'godgoali.github.io'
 		}
 	};
 
